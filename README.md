@@ -27,7 +27,7 @@ Accurate breast region segmentation is an important step in various automated al
 ```
 
 ## Links
-* [Onine versio](https://www.sciencedirect.com/science/article/pii/S0010482519301945)
+* [Onine version](https://www.sciencedirect.com/science/article/pii/S0010482519301945)
 * [bioRxiv preprint](https://www.biorxiv.org/content/biorxiv/early/2019/02/06/542217.full.pdf)
 * [mini-MIAS mammograms ground truths](https://github.com/brsegmentation/brsegmentation)
 * [Source codes](https://github.com/brsegmentation/brsegmentation)
