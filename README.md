@@ -4,28 +4,30 @@ Accurate breast region segmentation is an important step in various automated al
 
 ## Flow chart depicting the proposed flow
 
-![alt text](./GithubPages/flowChart.png)
+![alt text](./flowChart.png)
 
 ## Sample t-SNE projection
 
-![alt text](./GithubPages/t-SNE1.jpg)
+![alt text](./t-SNE1.jpg)
 
 ## Associated BIC graph
 
-![alt text](./GithubPages/BIC1.jpg)
+![alt text](./BIC1.jpg)
 
 ## BibTeX
 ```@article{sharma2019mammogram,
   title={Mammogram Segmentation using Multi-atlas Deformable Registration},
   author={Sharma, Manish Kumar and Jas, Mainak and Karale, Vikrant and Sadhu, Anup and Mukhopadhyay, Sudipta},
-  journal={bioRxiv},
-  pages={542217},
+  journal={Computers in biology and medicine},
+  volume={110},
+  pages={244-253},
   year={2019},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={Elsevier}
 }
 ```
 
 ## Links
+* [Onine versio](https://www.sciencedirect.com/science/article/pii/S0010482519301945)
 * [bioRxiv preprint](https://www.biorxiv.org/content/biorxiv/early/2019/02/06/542217.full.pdf)
 * [mini-MIAS mammograms ground truths](https://github.com/brsegmentation/brsegmentation)
 * [Source codes](https://github.com/brsegmentation/brsegmentation)
